@@ -1,0 +1,26 @@
+{
+  "name": "mathsutils",
+  "version": "1.0.0",
+  "description": "maths utils ALG ",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test -function"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaimeCardenas176/mathsUtils.git"
+  },
+  "keywords": [
+    "maths"
+  ],
+  "author": "Jaime Cárdenas",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JaimeCardenas176/mathsUtils/issues"
+  },
+  "homepage": "https://github.com/JaimeCardenas176/mathsUtils#readme"
+}
